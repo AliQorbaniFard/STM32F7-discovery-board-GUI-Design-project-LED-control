@@ -1,0 +1,6 @@
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:377:13:prvInsertBlockIntoFreeList	6
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:113:7:pvPortMalloc	15
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:263:6:vPortFree	4
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:311:8:xPortGetFreeHeapSize	1
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:317:8:xPortGetMinimumEverFreeHeapSize	1
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:323:6:vPortInitialiseBlocks	1

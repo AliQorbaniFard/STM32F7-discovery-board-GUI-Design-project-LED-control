@@ -1,0 +1,2 @@
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/TouchGFX/generated/images/src/BitmapDatabase.cpp:17:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+F:/STM32/Projects/TouchGFXProjects/LED_Control/LED_Control/TouchGFX/generated/images/src/BitmapDatabase.cpp:22:10:uint16_t BitmapDatabase::getInstanceSize()	0	static
