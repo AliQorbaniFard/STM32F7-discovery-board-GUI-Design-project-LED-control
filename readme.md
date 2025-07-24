@@ -1,8 +1,72 @@
-# STM32F746G_DISCO TBS.
+<div align="center">
 
-The default IDE is set to STM32CubeIDE, to change IDE open the STM32F746G_DISCO.ioc with STM32CubeMX and select from the supported IDEs (EWARM from version 8.50.9, MDK-ARM, and STM32CubeIDE). Supports flashing of the STM32F746G_DISCO board directly from TouchGFX Designer using GCC and STM32CubeProgrammer.Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage. 
+# 🦊✨ Touch the Fox to Light the LED  
+### Interactive GUI with STM32F7 + TouchGFX + CubeIDE
 
-This TBS is configured for 272 x 480 pixels 16bpp screen resolution.  
+![Sly_thumbnail](https://github.com/user-attachments/assets/015746ab-dd02-4248-9020-ef45c54ced8a)
 
-Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ  - Pin PB4(D3), RENDER_TIME - Pin PC6(D1), FRAME_RATE  - Pin PC7(D0), MCU_ACTIVE  - Pin PG6(D2)
- 
+</div>
+
+---
+
+## 🎯 Project Summary
+
+This project transforms a basic LED control into an **interactive touchscreen experience** using the **STM32F7 Discovery Board** and a custom **TouchGFX GUI**.
+
+💡 When you touch the animated **Sly Fox** logo on the screen:
+- The fox begins to **glow**
+- An **LED turns ON**
+- Touch it again to **turn everything OFF**
+
+🔁 Repeat this as many times as you like — it’s fast, smooth, and visually satisfying!
+
+---
+
+## 🧠 Features
+
+- 🖥️ Sleek GUI made with **TouchGFX Designer**
+- 🦊 Custom fox logo with glow effect on touch
+- 💡 LED toggles with GUI interaction
+- 🧼 Clean CubeIDE project structure
+- 🔁 Fully responsive toggle logic with debouncing
+
+---
+
+## 🔧 Tools Used
+
+| Tool/Framework     | Purpose                        |
+|--------------------|--------------------------------|
+| STM32F7 Discovery   | Main development board         |
+| TouchGFX Designer   | GUI creation & animation       |
+| STM32CubeMX         | Peripheral setup               |
+| STM32CubeIDE        | Code integration and upload    |
+| C / HAL             | Embedded firmware logic        |
+
+---
+## 🚀 How It Works
+
+1. The GUI is created with **TouchGFX** and loaded onto the LCD.
+2. The **fox logo** is set as a touch-sensitive object.
+3. When touched:
+   - The LED toggles ON/OFF
+   - A glow effect activates/deactivates around the fox
+4. LED state is retained until touched again.
+
+---
+
+## 💡 Inspiration
+
+Even a basic LED project can become fun and **user-friendly** with the right GUI.  
+Touchscreens + microcontrollers = endless creativity!
+
+---
+
+## 🛠️ Future Ideas
+
+- Add multi-object touch interaction (e.g., toggle 2 LEDs)
+- Include animation or sound effects
+- Add UART logging or status display
+
+---
+
+## 🦊 Made with curiosity by [AliQorbaniFard](https://github.com/AliQorbaniFard)
