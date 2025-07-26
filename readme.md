@@ -68,5 +68,5 @@ Touchscreens + microcontrollers = endless creativity!
 - Add UART logging or status display
 
 ---
-
+[Video](https://www.youtube.com/watch?v=bAHoS48ZOSE&t=21s)
 ## 🦊 Made with curiosity by [AliQorbaniFard](https://github.com/AliQorbaniFard)
