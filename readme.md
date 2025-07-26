@@ -69,7 +69,7 @@ Touchscreens + microcontrollers = endless creativity!
 
 ---
 
-##📺 Watch the Demo on YouTube: [Video](https://www.youtube.com/watch?v=bAHoS48ZOSE&t=21s)
+## 📺 Watch the Demo on YouTube: [Video](https://www.youtube.com/watch?v=bAHoS48ZOSE&t=21s)
 
 ---
 ## 🦊 Made with curiosity by [AliQorbaniFard](https://github.com/AliQorbaniFard)
